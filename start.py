@@ -8,4 +8,4 @@ Test Program
 
 
 print ("Hi there, my name is David Prager")
-print ("My GitHub username is -------")
+print ("My GitHub username is Chenhao Shen")
